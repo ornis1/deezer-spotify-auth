@@ -14,10 +14,10 @@ npm run serve
 
 ### Set your environment variables in .env file
 
-DEEZER_APP= ""
-DEEZER_SECRET= ""
-SPOTIFY_ID= ""
-SPOTIFY_SECRET= ""
+- DEEZER_APP= ""
+- DEEZER_SECRET= ""
+- SPOTIFY_ID= ""
+- SPOTIFY_SECRET= ""
 
 ### Express server for forwarding requests
 
